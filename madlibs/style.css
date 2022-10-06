@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "lemonlove";
+  src: url(/madlibs/LemonLove.ttf);
+}
+
+body {
+  text-align: center;
+  background: pink;
+}
+h1 {
+  font-family: "lemonlove";
+}
+p {
+  font-size: x-large;
+  font-family: "bluetea";
+}
+input {
+  color: aqua;
+}
